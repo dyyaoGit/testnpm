@@ -1,0 +1,22 @@
+{
+  "name": "testnpm",
+  "version": "1.0.0",
+  "description": "this is test modules",
+  "main": "my_modules.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyyaoGit/testnpm.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "dyyao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dyyaoGit/testnpm/issues"
+  },
+  "homepage": "https://github.com/dyyaoGit/testnpm#readme"
+}
